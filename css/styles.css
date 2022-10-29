@@ -1,0 +1,123 @@
+body{
+    margin: 0;
+     background-color: #E4F9F5;
+     text-align: center;
+     
+ }
+ .top-container{
+    padding-top: 75px;
+    background-color: #E4F9F5;
+    position: relative;
+ }
+ .welcome-msg{
+     width: 1000px;
+     text-align: center;
+     position: relative;
+     margin-left: 200px;
+ }
+ hr{
+     width: 1000px;
+ }
+
+ h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    color: #0e7275;
+    margin-top: 50px;
+    margin-bottom: 0;
+    
+ }
+ h2{
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 0;
+    color:#0e7275;
+    font-weight: normal;
+ }
+ h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#11999E;
+ }
+ .cloud1{
+     position: absolute;
+     right: 300px;
+ }
+ .cloud2{
+     position: absolute;
+     left: 300px;
+ }
+
+ .desig{
+     text-decoration: underline;
+ }
+ p{
+    font-family: 'Montserrat', sans-serif;
+ }
+ .design-tag{
+     font-size: 2rem 
+ }
+
+ .skills{
+     margin: 50px auto 100px auto;
+     text-align: left;
+     width: 60%;
+     line-height: 2;
+     
+ }
+.topic{
+    text-align: center;
+    margin-bottom: 60px;
+ 
+  
+}
+.skill1-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.skill2{
+    position: relative;
+    text-align: left;
+    margin-top: 140px;
+    
+}
+.skill2-img{
+    width: 25%;
+    float: right;
+    
+    margin-left: 30px;
+}
+.profile{
+    margin-top: 50px;
+}
+.btn:hover{
+    color: brown;
+}
+
+/*Three boxes like Staircase
+body{
+
+    
+   margin: 0;
+    background-color: rgb(112, 110, 110);
+}
+.top-container{
+    background-color: rgb(219, 216, 216);
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+    padding: 20px;
+}
+.middle-container{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    margin-left: 260px;
+    border: solid 20px;
+    
+}
+.bottom-container{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    margin-left: 500px;
+    border: solid 10px;}*/
