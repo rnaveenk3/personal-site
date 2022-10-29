@@ -92,6 +92,13 @@ body{
 .btn:hover{
     color: brown;
 }
+hr{
+    border-style: dotted none none none;
+    border-width: 5px;
+    width: 100px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
 
 /*Three boxes like Staircase
 body{
