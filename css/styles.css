@@ -1,5 +1,5 @@
 body{
-    margin: 0;
+   
      background-color: #E4F9F5;
      text-align: center;
      
@@ -98,6 +98,53 @@ hr{
     width: 100px;
     margin-bottom: 30px;
     margin-top: 20px;
+}
+.contact-me{
+    margin: 50px auto;
+    width: 40%;
+    line-height: 2;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-top: 100px;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+.feedback-msg{
+    width: 20%;
+}
+  .bottom-container{
+     
+      background-color: #0e7275;
+      padding: 70px;
+      
+  }
+
+a{
+    margin: 10px 20px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 /*Three boxes like Staircase
